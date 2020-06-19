@@ -1,0 +1,15 @@
+PainLocation,Temperature (F),Sp02 (%),Tachycardic,Class
+head,98,96,false,Outpatient
+head,97,98,false,Outpatient
+head,98,95,true,Admit
+head,98,92,true,Admit
+head,97,80,true,Admit
+extremities,98,80,true,Admit
+extremities,102,98,true,Outpatient
+extremities,101,95,false,Outpatient
+extremities, 98,97,false,Outpatient
+extremities,98,90,false,Admit
+chest,97,70,true,Admit
+chest,104,98,false,Admit
+chest,98,98,true,Admit
+chest,100,90,false,Admit

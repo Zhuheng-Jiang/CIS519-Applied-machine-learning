@@ -1,0 +1,106 @@
+====================
+boosting iter = 100  tree depth = 1
+My Boosted Decision Tree Accuracy = 0.6492373809724445
+====================
+boosting iter = 100  tree depth = 2
+My Boosted Decision Tree Accuracy = 0.6447290806438022
+====================
+boosting iter = 100  tree depth = 3
+My Boosted Decision Tree Accuracy = 0.6235779893823207
+====================
+boosting iter = 100  tree depth = 4
+My Boosted Decision Tree Accuracy = 0.6821016263588101
+====================
+boosting iter = 100  tree depth = 5
+My Boosted Decision Tree Accuracy = 0.6725794219263503
+====================
+boosting iter = 125  tree depth = 1
+My Boosted Decision Tree Accuracy = 0.6492373809724445
+====================
+boosting iter = 125  tree depth = 2
+My Boosted Decision Tree Accuracy = 0.6655852363697649
+====================
+boosting iter = 125  tree depth = 3
+My Boosted Decision Tree Accuracy = 0.5963175191708098
+====================
+boosting iter = 125  tree depth = 4
+My Boosted Decision Tree Accuracy = 0.6594337237718042
+====================
+boosting iter = 125  tree depth = 5
+My Boosted Decision Tree Accuracy = 0.6732956939411814
+====================
+boosting iter = 150  tree depth = 1
+My Boosted Decision Tree Accuracy = 0.6492373809724445
+====================
+boosting iter = 150  tree depth = 2
+My Boosted Decision Tree Accuracy = 0.6491531136765821
+====================
+boosting iter = 150  tree depth = 3
+My Boosted Decision Tree Accuracy = 0.6297295019802814
+====================
+boosting iter = 150  tree depth = 4
+My Boosted Decision Tree Accuracy = 0.6821437600067414
+====================
+boosting iter = 150  tree depth = 5
+My Boosted Decision Tree Accuracy = 0.6623830791269908
+====================
+boosting iter = 175  tree depth = 1
+My Boosted Decision Tree Accuracy = 0.6492373809724445
+====================
+boosting iter = 175  tree depth = 2
+My Boosted Decision Tree Accuracy = 0.6644476278756215
+====================
+boosting iter = 175  tree depth = 3
+My Boosted Decision Tree Accuracy = 0.653029409286256
+====================
+boosting iter = 175  tree depth = 4
+My Boosted Decision Tree Accuracy = 0.6711468778966883
+====================
+boosting iter = 175  tree depth = 5
+My Boosted Decision Tree Accuracy = 0.6595601247155979
+====================
+boosting iter = 200  tree depth = 1
+My Boosted Decision Tree Accuracy = 0.6492373809724445
+====================
+boosting iter = 200  tree depth = 2
+My Boosted Decision Tree Accuracy = 0.6498693856914132
+====================
+boosting iter = 200  tree depth = 3
+My Boosted Decision Tree Accuracy = 0.6492373809724445
+====================
+boosting iter = 200  tree depth = 4
+My Boosted Decision Tree Accuracy = 0.6726636892222129
+====================
+boosting iter = 200  tree depth = 5
+My Boosted Decision Tree Accuracy = 0.6584225162214544
+====================
+boosting iter = 225  tree depth = 1
+My Boosted Decision Tree Accuracy = 0.6492373809724445
+====================
+boosting iter = 225  tree depth = 2
+My Boosted Decision Tree Accuracy = 0.6643212269318277
+====================
+boosting iter = 225  tree depth = 3
+My Boosted Decision Tree Accuracy = 0.637271424959973
+====================
+boosting iter = 225  tree depth = 4
+My Boosted Decision Tree Accuracy = 0.6723687536866942
+====================
+boosting iter = 225  tree depth = 5
+My Boosted Decision Tree Accuracy = 0.6548832897952305
+====================
+boosting iter = 250  tree depth = 1
+My Boosted Decision Tree Accuracy = 0.6492373809724445
+====================
+boosting iter = 250  tree depth = 2
+My Boosted Decision Tree Accuracy = 0.6497008510996882
+====================
+boosting iter = 250  tree depth = 3
+My Boosted Decision Tree Accuracy = 0.5946321732535603
+====================
+boosting iter = 250  tree depth = 4
+My Boosted Decision Tree Accuracy = 0.6644054942276902
+====================
+boosting iter = 250  tree depth = 5
+My Boosted Decision Tree Accuracy = 0.6561472992331676
+Best score is:0.6821437600067414  index is: [[2 3]]
